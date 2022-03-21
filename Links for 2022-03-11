@@ -1,0 +1,11 @@
+Today’s link dump focuses a bit more on the lead-up in studies for the OSCP certification. The OSCP stands for **Offensive Security Certified Professional**. Things have changed up a little in the time between grabbing these links and a refresh of the certification to align more with Windows Active Directory vulnerabilities.
+
+Description | Link
+------------ | ------------
+1. The “a la carte” tool set for automation of enumeration commands | https://github.com/4ut0m4t0n/alacarte
+2. Nishang Powershell Framework for offensive security, penetration testing and red teaming |  https://github.com/samratashok/nishang
+3. Tib3rius’ AutoRecon Script | https://github.com/Tib3rius/AutoRecon
+4. Pentestmonkey.net’s Cheat Sheet on Reverse Shells | http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+5.  Offensive Security’s Example Report Template | https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf
+
+Links shown here were checked before posting to ensure that the resources are still available and *probably not* a RickRoll.
